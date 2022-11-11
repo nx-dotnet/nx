@@ -174,7 +174,7 @@
     "memfs": "^3.0.1",
     "mime": "2.4.4",
     "mini-css-extract-plugin": "0.8.0",
-    "minimatch": "3.0.4",
+    "minimatch": "3.0.5",
     "minimist": "^1.2.5",
     "next": "10.1.2",
     "ng-packagr": "~11.2.0",
